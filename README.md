@@ -1,3 +1,2 @@
 # Portfolio
 
-![Deepak](profile.jpeg)
